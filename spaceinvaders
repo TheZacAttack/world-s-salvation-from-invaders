@@ -1,3 +1,16 @@
+;This program was designed to simulate a Space Invaders style aracde game for learning the programming language Racket.
+;Designed by: Josh Blank, Mike King, Seth Howel, and Zach Hochstetler.
+;Data description:
+
+
+;numbers represent locations
+
+;Boolean's for true or false statements
+
+;speed is represented in pixels per tick
+
+;x represents the location of the tank
+
 (require 2htdp/image)
 (require 2htdp/universe)
 
